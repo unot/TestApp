@@ -62,7 +62,7 @@ function updateTimeline (timeline) {
 	var commentLabel = Ti.UI.createLabel(
 	    {
 		width: 257,
-		height: 58,
+		left: 58,
 		top: 18,
 		height: 100,
 		fontSize: 8
